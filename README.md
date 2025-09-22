@@ -9,11 +9,11 @@ A passionate **Full-Stack Developer & AI Enthusiast**, solving technical challen
 - 📫 Reach me at **vigneshms9962@gmail.com**  
 
 ## ⚡ Tech Stack  
-- **Web Development:** Next.js, React.js, TailwindCSS, MERN Stack  
+- **Web Development:** Next.js, React.js, MERN Stack  
 - **Programming:** Python, JavaScript, TypeScript  
 - **AI & ML:** TensorFlow, OpenCV, ONNX Runtime  
 - **Backend & Databases:** Node.js, Express.js, MongoDB, MySQL  
-- **Workflow Optimization:** Git, PowerShell, Docker, CI/CD  
+- **Workflow Optimization:** Git, PowerShell,   
 
 ## 🔗 Connect with Me  
 - GitHub: https://github.com/Vignesh4196 
